@@ -1,4 +1,4 @@
-v1.0 is out !
+v1.0 is out
 
 Whats New?
 
@@ -7,3 +7,4 @@ Whats New?
 [+] New UI
 [+] New Music
 [+] New Discord RPC
+By Royal Swapper ©2021
