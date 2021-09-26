@@ -8,3 +8,4 @@ Whats New?
 [+] New Music
 [+] New Discord RPC
 By Royal Swapper ©2021
+AHAH
