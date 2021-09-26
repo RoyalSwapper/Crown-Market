@@ -7,4 +7,4 @@ Whats New?
 [+] New UI
 [+] New Music
 [+] New Discord RPC
-By Royal Swapper ©2021
+By Royal Swapper ©2021 32323232323223232
