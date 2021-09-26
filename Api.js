@@ -7,5 +7,4 @@ Whats New?
 [+] New UI
 [+] New Music
 [+] New Discord RPC
-By Royal Swapper ©2021
-AHAH
+By Royal Swapper ©202
