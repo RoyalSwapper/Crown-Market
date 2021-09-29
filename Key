@@ -1,0 +1,15 @@
+       {
+            {
+                if (siticoneRoundedTextBox1.Text.Contains("4956-8381-2068-0793"))
+                {
+                    MessageBox.Show("You Put The Right Key", "Royal Swapper V1", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                    new Mains().Show();
+                    this.Hide();
+                }
+                else
+                {
+                    MessageBox.Show("You Put Invalid Key", "Royal Swapper V1", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    Application.Exit();
+                }
+            }
+        }
