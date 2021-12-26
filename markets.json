@@ -4,9 +4,9 @@
     "data": {
         "playerId": "0",
         "inventory": [
-          			{
+            {
                 "lastUpdateAt": 1617190982,
-                "objectId": "S27",
+                "objectId": "Smoke",
                 "quantity": 1
             },
 			{
@@ -16,12 +16,17 @@
             },
 			{
                 "lastUpdateAt": 1617190982,
+                "objectId": "S27",
+                "quantity": 1
+            },
+			{
+                "lastUpdateAt": 1617190982,
                 "objectId": "S26",
                 "quantity": 1
             },
-                      {
+			{
                 "lastUpdateAt": 1617190982,
-                "objectId": "Smoke",
+                "objectId": "K24",
                 "quantity": 1
             },
 			{
@@ -174,14 +179,9 @@
                 "objectId": "Feng",
                 "quantity": 1
             },
-          			{
+			{
                 "lastUpdateAt": 1617190982,
                 "objectId": "Killer07",
-                "quantity": 1
-            },
-          			{
-                "lastUpdateAt": 1617190982,
-                "objectId": "K24",
                 "quantity": 1
             },
 			{
