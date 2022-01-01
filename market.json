@@ -19,6 +19,11 @@
                 "objectId": "Shape",
                 "quantity": 1
             },
+	    {
+                "lastUpdateAt": 1603301136,
+                "objectId": "Artist",
+                "quantity": 1
+            },
             {
                 "lastUpdateAt": 1603277292,
                 "objectId": "Witch",
